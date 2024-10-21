@@ -1,0 +1,221 @@
+[
+  {
+    "product": {
+      "id": "EG4959",
+      "title": "Superstar Shoes",
+      "url": "/superstar-shoes/EG4959.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f112bd38aab24636aa55aae700d35989_9366/Superstar_Shoes_Black_EG4959_00_plp_standard.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff0654f4089f4413baa7aae700d2a08c_9366/Superstar_Shoes_Black_EG4959_02_standard_hover_hover.jpg",
+      "priceData": {
+        "price": 8999,
+        "salePrice": 6299.5,
+        "discountText": "-30%",
+        "isSoldOut": false
+      },
+      "modelNumber": "GVS47"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/EG4959"
+  },
+  {
+    "product": {
+      "id": "EG4958",
+      "title": "Superstar Shoes",
+      "url": "/superstar-shoes/EG4958.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8d3ab16a86e64571b405aad600bad099_9366/Superstar_Shoes_White_EG4958_00_plp_standard.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8a358bcd5e3d453da815aad6009a249e_9366/Superstar_Shoes_White_EG4958_02_standard_hover.jpg",
+      "priceData": {
+        "price": 8999,
+        "salePrice": 6299.5,
+        "discountText": "-30%",
+        "isSoldOut": false
+      },
+      "modelNumber": "GVS47"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/EG4958"
+  },
+  {
+    "product": {
+      "id": "IU6246",
+      "title": "ASTOUNDRUN SHOES",
+      "url": "/astoundrun-shoes/IU6246.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8271eef9e1d44116837c2a9b3c07be1d_9366/ASTOUNDRUN_SHOES_Grey_IU6246_00_plp_standard.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a395a4c377ce4638ad1b84d4cf2e6c6b_9366/ASTOUNDRUN_SHOES_Grey_IU6246_02_standard_hover.jpg",
+      "priceData": {
+        "price": 3799,
+        "salePrice": 1899.5,
+        "discountText": "-50%",
+        "isSoldOut": false
+      },
+      "modelNumber": "MPM45"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/IU6246"
+  },
+  {
+    "product": {
+      "id": "IU6245",
+      "title": "ASTOUNDRUN SHOES",
+      "url": "/astoundrun-shoes/IU6245.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/93e7395acff3446cb985363e29df63a7_9366/ASTOUNDRUN_SHOES_Blue_IU6245_00_plp_standard.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e552445998b34f61aa56ebdfcb35088a_9366/ASTOUNDRUN_SHOES_Blue_IU6245_02_standard_hover.jpg",
+      "priceData": {
+        "price": 3799,
+        "salePrice": 1899.5,
+        "discountText": "-50%",
+        "isSoldOut": false
+      },
+      "modelNumber": "MPM45"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/IU6245"
+  },
+  {
+    "product": {
+      "id": "IU6247",
+      "title": "ASTOUNDRUN SHOES",
+      "url": "/astoundrun-shoes/IU6247.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/af2e2231ac694da4bd1b56445a1afcde_9366/ASTOUNDRUN_SHOES_Green_IU6247_00_plp_standard.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/618fa16732fe4d33a12787cc61e0ca8c_9366/ASTOUNDRUN_SHOES_Green_IU6247_02_standard_hover.jpg",
+      "priceData": {
+        "price": 3799,
+        "salePrice": 1899.5,
+        "discountText": "-50%",
+        "isSoldOut": false
+      },
+      "modelNumber": "MPM45"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/IU6247"
+  },
+  {
+    "product": {
+      "id": "GY9353",
+      "title": "Ultraboost Light Shoes",
+      "url": "/ultraboost-light-shoes/GY9353.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d67e233df1b642b5a4931a5505f0a1be_9366/Ultraboost_Light_Shoes_Black_GY9353_HM1.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff63350102884175bfee3a10bd3e5b93_9366/Ultraboost_Light_Shoes_Black_GY9353_HM3_hover.jpg",
+      "priceData": {
+        "price": 18999,
+        "salePrice": 9499.5,
+        "discountText": "-50%",
+        "isSoldOut": false
+      },
+      "badge": {
+        "style": "custom",
+        "text": "Everyday Run"
+      },
+      "modelNumber": "LPZ48"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/GY9353"
+  },
+  {
+    "product": {
+      "id": "EG4957",
+      "title": "Superstar Shoes",
+      "url": "/superstar-shoes/EG4957.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d699a097bfb846298334aad80120f0f2_9366/Superstar_Shoes_Black_EG4957_00_plp_standard.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/cb33bd67c8c64ebd96f8aad801164853_9366/Superstar_Shoes_Black_EG4957_02_standard_hover.jpg",
+      "priceData": {
+        "price": 8999,
+        "salePrice": 6299.5,
+        "discountText": "-30%",
+        "isSoldOut": false
+      },
+      "modelNumber": "GVS47"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/EG4957"
+  },
+  {
+    "product": {
+      "id": "EX2038",
+      "title": "CLEAR FACTOR SHOES",
+      "url": "/clear-factor-shoes/EX2038.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f7866f50fc7f466aadb4ad55005f172d_9366/CLEAR_FACTOR_SHOES_Black_EX2038_00_plp_standard.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/09ac62ab87b64190aa3bad55005f0bf9_9366/CLEAR_FACTOR_SHOES_Black_EX2038_02_standard_hover.jpg",
+      "priceData": {
+        "price": 3299,
+        "salePrice": 1649.5,
+        "discountText": "-50%",
+        "isSoldOut": false
+      },
+      "badge": {
+        "style": "custom",
+        "text": "First time on discount"
+      },
+      "modelNumber": "HKK23"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/EX2038"
+  },
+  {
+    "product": {
+      "id": "EF4838",
+      "title": "Superstar Shoes",
+      "url": "/superstar-shoes/EF4838.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/74be257b4ef8461baa1aab03013547d9_9366/Superstar_Shoes_White_EF4838_00_plp_standard.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3eff59815798444e9d37ab030134ebe0_9366/Superstar_Shoes_White_EF4838_02_standard_hover.jpg",
+      "priceData": {
+        "price": 5599,
+        "salePrice": 3919.5,
+        "discountText": "-30%",
+        "isSoldOut": false
+      },
+      "modelNumber": "FCC54"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/EF4838"
+  },
+  {
+    "product": {
+      "id": "GT5545",
+      "title": "AEROREADY Designed to Move Feelready Sport Tee",
+      "url": "/aeroready-designed-to-move-feelready-sport-tee/GT5545.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9e0cf69f554d4092b0e5ac8401899725_9366/AEROREADY_Designed_to_Move_Feelready_Sport_Tee_Black_GT5545_01_laydown.jpg",
+      "priceData": {
+        "price": 2499,
+        "salePrice": 1249.5,
+        "discountText": "-50%",
+        "isSoldOut": false
+      },
+      "modelNumber": "IWO37"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/GT5545"
+  },
+  {
+    "product": {
+      "id": "IQ1628",
+      "title": "FREELIFT TEE",
+      "url": "/freelift-tee/IQ1628.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/146a01730641408dbfa0afb700d9d987_9366/FREELIFT_TEE_Green_IQ1628_000_plp_model.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b9760d8cd922456fb94aafb700d9d1c3_9366/FREELIFT_TEE_Green_IQ1628_23_hover_model.jpg",
+      "priceData": {
+        "price": 1599,
+        "salePrice": 799.5,
+        "discountText": "-50%",
+        "isSoldOut": false
+      },
+      "badge": {
+        "style": "custom",
+        "text": "Hot Deal"
+      },
+      "modelNumber": "DRG33"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/IQ1628"
+  },
+  {
+    "product": {
+      "id": "IC9275",
+      "title": "Essentials Single Jersey Linear Embroidered Logo Tee",
+      "url": "/essentials-single-jersey-linear-embroidered-logo-tee/IC9275.html",
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/91200835c35c44269b27af5c01002e6f_9366/Essentials_Single_Jersey_Linear_Embroidered_Logo_Tee_Blue_IC9275_000_plp_model.jpg",
+      "hoverImage": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/dbcb452126b6468cb4e0af5c01003a5e_9366/Essentials_Single_Jersey_Linear_Embroidered_Logo_Tee_Blue_IC9275_23_hover_model.jpg",
+      "priceData": {
+        "price": 1999,
+        "salePrice": 999.5,
+        "discountText": "-50%",
+        "isSoldOut": false
+      },
+      "badge": {
+        "style": "custom",
+        "text": "First time on discount"
+      },
+      "modelNumber": "ECQ98"
+    },
+    "originUrl": "https://products.3stripes.net/api/search/product/IC9275"
+  }
+]
